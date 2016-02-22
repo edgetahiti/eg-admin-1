@@ -35,7 +35,7 @@ Noir ==> #000000
 .sidebar .nav-third-level li a {padding-left: 52px;}
 .sidebar .sidebar-custom1 {padding: 15px}
 @media(min-width:768px) {
-    .sidebar {z-index: 1;position: absolute;width: 250px;margin-top: 51px;}
+    .sidebar {z-index: 1;position: absolute;width: 200px;margin-top: 51px}
 }
 .sidebar .sidebar-nav.navbar-collapse .nav>li{background-color: #f8f8f8;border-bottom-right-radius:20px}
 .sidebar .sidebar-nav.navbar-collapse .nav>li>a{color:#172E74}
