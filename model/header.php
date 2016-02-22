@@ -9,7 +9,7 @@
 <title><?php echo htmlspecialchars($page_title); ?></title>
 <link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" type="text/css">
 <link href="bower_components/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-<link href="css/metisMenu.min.css" rel="stylesheet" type="text/css">
+<link href="css/eg-admin.css" rel="stylesheet" type="text/css">
 <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 <!--[if lt IE 9]>
